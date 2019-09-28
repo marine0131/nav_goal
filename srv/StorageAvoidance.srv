@@ -1,0 +1,6 @@
+float32 vx
+int32 dir
+---
+geometry_msgs/Twist vel
+bool success
+string message

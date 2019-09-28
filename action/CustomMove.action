@@ -1,0 +1,10 @@
+# define a goal
+string type
+geometry_msgs/Twist vel
+float32 dist
+---
+# define the result
+string result
+---
+# define a feedback msg
+float32 percent_complete
